@@ -45,7 +45,7 @@ Thank you if you read this because it is a short text about me :)
   </br>
   
   <div align="center">
-  <a href = "mailto:zmilenabrito@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=plastic&logo=gmail&logoColor=white" target="_blank"></a>
+  <!--<a href = "mailto:zmilenabrito@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=plastic&logo=gmail&logoColor=white" target="_blank"></a>-->
   <a href="https://www.linkedin.com/in/srcmilena" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
