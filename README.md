@@ -31,14 +31,28 @@ I am a technology lover but, I studied civil engineering for almost three years.
 
 Thank you if you read this because it is a short text about me :)
 
-##
+## These are some technologies that I know:
 </br>
+
+<h1>Front-End</h1>
+![JavaScript](https://www.svgrepo.com/show/373705/js-official.svg)
+![HTML](https://www.svgrepo.com/show/373669/html.svg)
+![CSS](https://www.svgrepo.com/show/373535/css.svg)
+</br>
+<h1>Back-End</h1>
+![Java](https://www.svgrepo.com/show/184143/java.svg)
+![Python](https://www.svgrepo.com/show/374016/python.svg)
+![CSharp](https://www.svgrepo.com/show/353622/c-sharp.svg)
+
+
+
 
 <div align="center">
   <a href="https://github.com/srcmilena">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=srcmilena&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srcmilena&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+ <!--##
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://www.svgrepo.com/show/373705/js-official.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://www.svgrepo.com/show/373669/html.svg">
@@ -48,7 +62,7 @@ Thank you if you read this because it is a short text about me :)
   <img align="center" alt="Java" height="30" width="40" src="https://www.svgrepo.com/show/184143/java.svg">
 </div>
   
-  <!--##
+  ##
   </br>
   
   <div align="center">
