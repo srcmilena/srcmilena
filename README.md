@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
   ##
 
-# Hello world 👋
+<h1>Hello world 👋</h1>
 
 This is my presentation.
 
