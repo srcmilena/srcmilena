@@ -19,8 +19,6 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/srcmilena" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-##
-
 # Hello world 👋
 
 This is my presentation.
