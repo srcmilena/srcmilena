@@ -31,18 +31,20 @@ I am a technology lover but, I studied civil engineering for almost three years.
 
 Thank you if you read this because it is a short text about me :)
 
-## These are some technologies that I know:
+## 
+
+These are some technologies that I know:
 </br>
 
-<h1>Front-End</h1>
-![JavaScript](https://www.svgrepo.com/show/373705/js-official.svg)
-![HTML](https://www.svgrepo.com/show/373669/html.svg)
-![CSS](https://www.svgrepo.com/show/373535/css.svg)
+<h3>Front-End</h3>
+![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=JavaScript&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML-white?style=flat-square&logo=html5&logoColor=black)
+![CSS](https://img.shields.io/badge/-CSS-white?style=flat-square&logo=CSS3&logoColor=black)
 </br>
-<h1>Back-End</h1>
-![Java](https://www.svgrepo.com/show/184143/java.svg)
-![Python](https://www.svgrepo.com/show/374016/python.svg)
-![CSharp](https://www.svgrepo.com/show/353622/c-sharp.svg)
+<h3>Back-End</h3>
+![Java](https://img.shields.io/badge/-Java-white?style=flat-square&logo=Java&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=Python&logoColor=black)
+![CSharp](https://img.shields.io/badge/-CSharp-white?style=flat-square&logo=CSharp&logoColor=black)
 
 
 
