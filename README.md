@@ -28,9 +28,10 @@ Thank you if you read this because it is a short text about me :)
 ##
 </br>
 
-<div align="center">
+<div>
   <a href="https://github.com/srcmilena">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srcmilena&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=srcmilena&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srcmilena&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://www.svgrepo.com/show/349419/javascript.svg">
@@ -45,7 +46,7 @@ Thank you if you read this because it is a short text about me :)
   </br>
   
   <div align="center">
-  <a href = "mailto:zmilenabrito@gmail.com"><img src="https://img.shields.io/badge/zmilenabrito%40gmail.com-Gmail-red?style=plastic&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "#"><img src="https://img.shields.io/badge/zmilenabrito%40gmail.com-Gmail-red?style=plastic&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/srcmilena" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
