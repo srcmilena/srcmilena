@@ -31,18 +31,18 @@ Thank you if you read this because it is a short text about me :)
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://www.svgrepo.com/show/349419/javascript.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://www.svgrepo.com/show/197982/html.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://www.svgrepo.com/show/373535/css.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://www.svgrepo.com/show/374016/python.svg">
   <img align="center" alt="CSharp" height="30" width="40" src="https://www.svgrepo.com/show/353622/c-sharp.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://www.svgrepo.com/show/373694/jar.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://www.svgrepo.com/show/232473/java.svg">
 </div>
   
   ##
   </br>
   
   <div>
-  <a href = "mailto:zmilenabrito@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/srcmilena" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue" target="_blank"></a> 
+  <a href = "mailto:zmilenabrito@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=plastic&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/srcmilena" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
