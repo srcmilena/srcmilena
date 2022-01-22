@@ -37,7 +37,7 @@ Thank you if you read this because it is a short text about me :)
  
  </br></br>
  
- ## These are some technologies that I know:
+ ## I have some knowledge about these technologies:
 </br>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=JavaScript&logoColor=black)
