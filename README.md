@@ -30,11 +30,11 @@ Thank you if you read this because it is a short text about me :)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srcmilena&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://www.svgrepo.com/show/373703/js.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://www.svgrepo.com/show/373670/htmlhint.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://www.svgrepo.com/show/349419/javascript.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://www.svgrepo.com/show/373535/css.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://www.svgrepo.com/show/374016/python.svg">
-  <img align="center" alt="CSharp" height="30" width="40" src="https://www.svgrepo.com/show/373531/csharp.svg">
+  <img align="center" alt="CSharp" height="30" width="40" src="https://www.svgrepo.com/show/353622/c-sharp.svg">
 </div>
   
   <div>
