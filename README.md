@@ -30,8 +30,8 @@ Thank you if you read this because it is a short text about me :)
 
 <div align="center">
   <a href="https://github.com/srcmilena">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=srcmilena&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srcmilena&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=srcmilena&show_icons=true&theme=gray&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srcmilena&layout=compact&langs_count=7&theme=gray"/>
 </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://www.svgrepo.com/show/349419/javascript.svg">
