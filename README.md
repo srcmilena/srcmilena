@@ -17,10 +17,9 @@ Here are some ideas to get you started:
  <div align="center">
   <a href = "#"><img src="https://img.shields.io/badge/zmilenabrito%40gmail.com-Gmail-red?style=plastic&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/srcmilena" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
 </div>
 
-  ##
+##
 
 <h1>Hello world 👋</h1>
 
