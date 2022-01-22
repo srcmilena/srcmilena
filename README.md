@@ -45,7 +45,7 @@ Thank you if you read this because it is a short text about me :)
 ![CSS](https://img.shields.io/badge/-CSS-white?style=flat-square&logo=CSS3&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-white?style=flat-square&logo=Java&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=Python&logoColor=black)
-![CSharp](https://img.shields.io/badge/-CSharp-transparent?style=flat-square&logo=CSharp&logoColor=black)
+![CSharp](https://img.shields.io/badge/-CSharp-white?style=flat-square&logo=CSharp&logoColor=black)
  
  <!--##
 <div align="center" style="display: inline_block"><br>
