@@ -25,6 +25,9 @@ I am a technology lover but, I studied civil engineering for almost three years.
 
 Thank you if you read this because it is a short text about me :)
 
+##
+</br>
+
 <div align="center">
   <a href="https://github.com/srcmilena">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srcmilena&layout=compact&langs_count=7&theme=dracula"/>
