@@ -35,6 +35,8 @@ Thank you if you read this because it is a short text about me :)
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srcmilena&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
+ </br></br>
+ 
  ## These are some technologies that I know:
 </br>
 
