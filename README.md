@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ##
 
-<h1>Hello world 👋</h1>
+<h1>Hello world</h1>
 
 This is my presentation.
 
