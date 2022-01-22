@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hello world
+
+Hi there, this is my presentation.
+
+My name is Milena, live in Sao Paulo, Brazil.
+
+I am a technology lover but, I studied civil engineering for almost three years. I decided to stop and gave myself time to think and be aware of my future. After that, I got my conclusion so, I started to follow tech/dev departments.
+
+Thank you if you read this because it is a short text about me :)
