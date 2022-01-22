@@ -35,7 +35,11 @@ Thank you if you read this because it is a short text about me :)
   <img align="center" alt="CSS" height="30" width="40" src="https://www.svgrepo.com/show/373535/css.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://www.svgrepo.com/show/374016/python.svg">
   <img align="center" alt="CSharp" height="30" width="40" src="https://www.svgrepo.com/show/353622/c-sharp.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://www.svgrepo.com/show/373694/jar.svg">
 </div>
+  
+  ##
+  </br>
   
   <div>
   <a href = "mailto:zmilenabrito@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red" target="_blank"></a>
