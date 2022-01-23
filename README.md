@@ -35,6 +35,9 @@ Thank you if you read this because it is a short text about me :)
   <a href="https://github.com/srcmilena">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=srcmilena&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srcmilena&layout=compact&langs_count=7&theme=dracula"/>
+   
+   <!--[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srcmilena&show_icons=true&theme=highcontrast)-->
+   
 </div>
  
  </br></br>
