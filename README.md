@@ -19,7 +19,12 @@ Here are some ideas to get you started:
   <img width="250" src="https://giphy.com/embed/aN3VDpxiCaby8">
 </p>-->
 
-[srcmilena](https://res.cloudinary.com/srcmilena/image/upload/v1642910958/srcmilena_capa_1_n9a0ma.png)
+<div align="center">
+  <a href="https://github.com/srcmilena">
+  <img src="https://res.cloudinary.com/srcmilena/image/upload/v1642910958/srcmilena_capa_1_n9a0ma.png"/>
+</div>
+
+[![srcmilena](https://res.cloudinary.com/srcmilena/image/upload/v1642910958/srcmilena_capa_1_n9a0ma.png)]
 
 
 
