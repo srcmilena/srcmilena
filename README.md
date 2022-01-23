@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
+<!--<p align="center">
   <img width="250" src="https://giphy.com/embed/aN3VDpxiCaby8">
-</p>
+</p>-->
 
 
 
- <div align="center">
+<div align="center">
   <a href = "#"><img src="https://img.shields.io/badge/zmilenabrito%40gmail.com-Gmail-red?style=plastic&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/srcmilena" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
@@ -41,7 +41,8 @@ Thank you if you read this because it is a short text about me :)
 <div align="center">
   <a href="https://github.com/srcmilena">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=srcmilena&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srcmilena&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srcmilena&layout=compact&theme=dracula"/>
+
    
    <!--[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srcmilena&show_icons=true&theme=highcontrast)-->
    
