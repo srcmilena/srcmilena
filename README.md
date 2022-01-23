@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 This is my presentation.
 
-My name is Milena, I live in Sao Paulo, Brazil.
+My name is Milena, I live in São Paulo, Brazil.
 
 I am a technology lover but, I studied civil engineering for almost three years. I decided to stop and gave myself time to think and be aware of my future. After that, I got my conclusion so, I started to follow tech/dev departments. Currently, I am studying to become a Full-Stack developer.
 
