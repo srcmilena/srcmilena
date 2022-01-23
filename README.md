@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img width="250" src="https://giphy.com/stickers/show-mood-aN3VDpxiCaby8">
+  <img width="250" src="https://giphy.com/embed/aN3VDpxiCaby8">
 </p>
+
+
 
  <div align="center">
   <a href = "#"><img src="https://img.shields.io/badge/zmilenabrito%40gmail.com-Gmail-red?style=plastic&logo=gmail&logoColor=white" target="_blank"></a>
