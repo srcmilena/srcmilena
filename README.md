@@ -61,12 +61,23 @@ Thank you if you read this because it is a short text about me :)
  ## I have some knowledge about these technologies:
 </br>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=JavaScript&logoColor=black)
 ![HTML](https://img.shields.io/badge/-HTML-white?style=flat-square&logo=html5&logoColor=black)
 ![CSS](https://img.shields.io/badge/-CSS-white?style=flat-square&logo=CSS3&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-white?style=flat-square&logo=Java&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=JavaScript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-white?style=flat-square&logo=bootstrap&logoColor=black)
+![ReactJS](https://img.shields.io/badge/-ReactJS-white?style=flat-square&logo=react&logoColor=black)
+
+</br>
+
 ![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=Python&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-white?style=flat-square&logo=Java&logoColor=black)
 ![CSharp](https://img.shields.io/badge/-CSharp-white?style=flat-square&logo=CSharp&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql&logoColor=black)
+
+</br>
+
+![GIT](https://img.shields.io/badge/-GIT-white?style=flat-square&logo=git&logoColor=black)
+
  
  <!--##
 <div align="center" style="display: inline_block"><br>
