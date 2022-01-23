@@ -45,9 +45,9 @@ Thank you if you read this because it is a short text about me :)
 
 <div align="center">
   <a href="https://github.com/srcmilena">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=srcmilena&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srcmilena&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=srcmilena&theme=dracula&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=srcmilena&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srcmilena&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=srcmilena&theme=dracula&hide_border=true"/>
     
   <!--<img height="140em" src="http://github-readme-streak-stats.herokuapp.com?user=srcmilena&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>-->
 
