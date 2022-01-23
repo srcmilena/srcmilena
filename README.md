@@ -46,7 +46,7 @@ Thank you if you read this because it is a short text about me :)
 <div align="center">
   <a href="https://github.com/srcmilena">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=srcmilena&show_icons=true&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srcmilena&langs_count=10&theme=blueberry&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srcmilena&layout=compact&langs_count=7&theme=blueberry&hide_border=true&hide=3,4,5"/>
   <img height="190em" src="http://github-readme-streak-stats.herokuapp.com?user=srcmilena&theme=blueberry&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&dates=DDDDDD"/>
     
   <!--<img height="140em" src="http://github-readme-streak-stats.herokuapp.com?user=srcmilena&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>-->
