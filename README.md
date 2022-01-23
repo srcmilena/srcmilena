@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/srcmilena">
-  <img src="https://res.cloudinary.com/srcmilena/image/upload/v1642910958/srcmilena_capa_1_n9a0ma.png"/>
+  <img src="https://res.cloudinary.com/srcmilena/image/upload/v1642911933/milena_brito_azul_1_a2ecta.png"/>
 </div>
   
   </br>
