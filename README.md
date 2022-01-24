@@ -73,6 +73,7 @@ Thank you if you read this because it is a short text about me :)
 ![Java](https://img.shields.io/badge/-Java-white?style=flat-square&logo=Java&logoColor=black)
 ![CSharp](https://img.shields.io/badge/-CSharp-white?style=flat-square&logo=CSharp&logoColor=black)
 ![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql&logoColor=black)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-white?style=flat-square&logo=microsoft-sql-server&logoColor=black)
 
 </br>
 
