@@ -62,18 +62,22 @@ Thank you if you read this because it is a short text about me :)
 </br>
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=plastic&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=plastic&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logoColor=white)
 ![React JS](https://img.shields.io/badge/React%20JS-1572B6?style=for-the-badge&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logoColor=white)
-![CSharp](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-1572B6?style=for-the-badge&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-00000F?style=for-the-badge&logoColor=white)
+</br>
 
-![GIT](https://img.shields.io/badge/GIT-E34F26?style=for-the-badge&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=plastic&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logoColor=white)
+![CSharp](https://img.shields.io/badge/CSharp-239120?style=plastic&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-1572B6?style=plastic&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-00000F?style=plastic&logoColor=white)
+
+</br>
+
+![GIT](https://img.shields.io/badge/GIT-E34F26?style=plastic&logoColor=white)
 
 
 <!--
