@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/srcmilena" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-# Hello, world!
+<!--# Hello, world!
 
 This is my presentation.
 
@@ -39,7 +39,17 @@ My name is Milena, I live in São Paulo, Brazil.
 
 I am a technology lover but, I studied civil engineering for almost three years. I decided to stop and gave myself time to think and be aware of my future. After that, I got my conclusion so, I started to follow tech/dev departments. Currently, I am studying to become a Full-stack developer.
 
-Thank you if you read this because it is a short text about me :)
+Thank you if you read this because it is a short text about me :)-->
+
+# Olá, mundo!
+
+Esta é a minha apresentação.
+
+Meu nome é Milena, eu moro em São Paulo, no Brasil.
+
+Eu sou uma amante de tecnologia mas, eu estudei engenharia civil por quase 3 anos. Eu decidi parar e me dar um tempo para pensar e estar ciente sobre o meu futuro. Depois disso, eu tive a minha conclusão então, eu comecei a me integrar às áreas de tecnologia. Atualmente, eu sou uma desenvolvedora full-stack Jr..
+
+Obrigada se você leu até aqui pois isso é um breve texto sobre mim :-)
 
 </br></br>
 
@@ -58,7 +68,8 @@ Thank you if you read this because it is a short text about me :)
  
  </br></br>
  
- ## I have some knowledge about these technologies:
+<!-- ## I have some knowledge about these technologies:-->
+## Eu tenho algum conhecimento sobre essas tecnologias:
 </br>
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=plastic&logoColor=white)
@@ -71,9 +82,11 @@ Thank you if you read this because it is a short text about me :)
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=plastic&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logoColor=white)
+![Spring-Boot](https://img.shields.io/badge/springboot-ED8B00?style=plastic&logoColor=white)
 ![CSharp](https://img.shields.io/badge/CSharp-239120?style=plastic&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-1572B6?style=plastic&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-00000F?style=plastic&logoColor=white)
+![No SQL](https://img.shields.io/badge/mongo%20db-00000F?style=plastic&logoColor=white)
 
 </br>
 
