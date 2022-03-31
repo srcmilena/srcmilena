@@ -45,9 +45,9 @@ Thank you if you read this because it is a short text about me :)-->
 
 Esta é a minha apresentação.
 
-Meu nome é Milena, eu moro em São Paulo, no Brasil.
+Meu nome é Milena e eu moro em São Paulo.
 
-Eu sou uma amante de tecnologia mas, eu estudei engenharia civil por quase 3 anos. Eu decidi parar e me dar um tempo para pensar e estar ciente sobre o meu futuro. Depois disso, eu tive a minha conclusão então, eu comecei a me integrar às áreas de tecnologia. Atualmente, eu sou uma desenvolvedora full-stack Jr..
+Eu sou e sempre fui uma amante de tecnologia mas, eu estudei engenharia civil por quase 3 anos. Depois de parar com a engenharia civil, decidi me situar na vida e me dar um tempo para pensar e estar ciente sobre o meu futuro. Depois disso, eu tive a minha conclusão e então eu comecei a me integrar às áreas de tecnologia. Atualmente, eu sou uma desenvolvedora full-stack Jr.
 
 Obrigada se você leu até aqui pois isso é um breve texto sobre mim :-)
 
