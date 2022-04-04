@@ -88,7 +88,7 @@ Obrigada se você leu até aqui pois isso é um breve texto sobre mim :-)
 ![Python](https://img.shields.io/badge/Python-14354C?style=plastic&logoColor=white)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logoColor=white)
-![Spring-Boot](https://img.shields.io/badge/SpringBoot-ED8B00?style=plastic&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-ED8B00?style=plastic&logoColor=white)
 
 ![CSharp](https://img.shields.io/badge/CSharp-239120?style=plastic&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-239120?style=plastic&logoColor=white)
