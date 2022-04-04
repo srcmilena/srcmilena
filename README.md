@@ -84,9 +84,11 @@ Obrigada se você leu até aqui pois isso é um breve texto sobre mim :-)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logoColor=white)
 ![Spring-Boot](https://img.shields.io/badge/SpringBoot-ED8B00?style=plastic&logoColor=white)
 ![CSharp](https://img.shields.io/badge/CSharp-239120?style=plastic&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-1572B6?style=plastic&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-00000F?style=plastic&logoColor=white)
-![No SQL](https://img.shields.io/badge/Mongo%20DB-00000F?style=plastic&logoColor=white)
+[.NET](https://img.shields.io/badge/.NET-239120?style=plastic&logoColor=white)
+[ASP.NET](https://img.shields.io/badge/ASP.NET-239120?style=plastic&logoColor=white)
+<!--![MySQL](https://img.shields.io/badge/MySQL-1572B6?style=plastic&logoColor=white)-->
+![SQL](https://img.shields.io/badge/SQL-00000F?style=plastic&logoColor=white)
+![No SQL](https://img.shields.io/badge/NoSQL-00000F?style=plastic&logoColor=white)
 
 </br>
 
