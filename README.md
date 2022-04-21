@@ -52,7 +52,7 @@ Thank you if you read this because it is a short text about me :)-->
 🌎 Brasil </br>
 
 🌱 Oracle Next Education </br>
-🎓 Desenvolvimento full stack, Recode Pro 2021 </br>
+🎓 Recode Pro 2021 </br>
 
 <!--Esta é a minha apresentação.
 
