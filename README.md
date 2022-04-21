@@ -19,10 +19,10 @@ Here are some ideas to get you started:
   <img width="250" src="https://giphy.com/embed/aN3VDpxiCaby8">
 </p>-->
 
-<div align="center">
+<!--<div align="center">
   <a href="https://github.com/srcmilena">
   <img src="https://res.cloudinary.com/srcmilena/image/upload/v1642969111/milena_brito_att_1_l0e8q3.png"/>
-</div>
+</div>-->
   
   </br>
 
