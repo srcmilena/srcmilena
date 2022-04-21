@@ -43,20 +43,33 @@ Thank you if you read this because it is a short text about me :)-->
 
 # Olá, mundo!
 
-Esta é a minha apresentação.
+🌟 Milena </br>
+💗 Music, sports... </br>
+
+🤖 Tecnologia & inovação
+
+📍 São Paulo, SP </br>
+🌎 Brasil </br>
+
+🌱 Oracle Next Education </br>
+🎓 Desenvolvimento full stack, Recode Pro 2021 </br>
+
+<!--Esta é a minha apresentação.
 
 Meu nome é Milena e eu moro em São Paulo.
 
 Eu sou e sempre fui uma amante de tecnologia mas, eu estudei engenharia civil por quase 3 anos. Depois de parar com a engenharia civil, decidi me situar na vida e me dar um tempo para pensar e estar ciente sobre o meu futuro. Depois disso, eu tive a minha conclusão e então eu comecei a me integrar às áreas de tecnologia. Atualmente, eu sou uma desenvolvedora full-stack Jr.
 
-Obrigada se você leu até aqui pois isso é um breve texto sobre mim :-)
+Obrigada se você leu até aqui pois isso é um breve texto sobre mim :-)-->
 
-</br></br>
+<!--</br>-->
 
-<div align="center">
-  <a href="https://github.com/srcmilena">
+<!--<div align="center">
+  <a href="https://github.com/srcmilena">-->
   <!--<img height="140em" src="https://github-readme-stats.vercel.app/api?username=srcmilena&hide=prs,issues,contribs&layout=compact&show_icons=true&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true"/>-->
-  <img height="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srcmilena&langs_count=10&theme=blueberry&hide_border=true"/>
+    
+  <!-- most used languages <img height="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srcmilena&langs_count=10&theme=blueberry&hide_border=true"/>-->
+    
   <!--<img height="160em" src="http://github-readme-streak-stats.herokuapp.com?user=srcmilena&layout=compact&theme=blueberry&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&dates=DDDDDD"/>  &layout=compact--> 
     
   <!--<img height="140em" src="http://github-readme-streak-stats.herokuapp.com?user=srcmilena&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>-->
@@ -64,28 +77,34 @@ Obrigada se você leu até aqui pois isso é um breve texto sobre mim :-)
    
    <!--[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srcmilena&show_icons=true&theme=highcontrast)-->
    
-</div>
+<!--</div>
  
- </br></br>
+ </br></br>-->
+ 
+ ***
  
 <!-- ## I have some knowledge about these technologies:-->
-### Eu tenho algum conhecimento sobre essas tecnologias:
-</br>
+## Eu tenho algum conhecimento sobre essas tecnologias:
 
-### Front end
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=plastic&logoColor=white)
+#### Front end
+
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,bootstrap,react)](https://skills.thijs.gg)
+
+
+<!--![HTML](https://img.shields.io/badge/HTML-E34F26?style=plastic&logoColor=white)
 
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=plastic&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=plastic&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logoColor=white)
-![React JS](https://img.shields.io/badge/React%20JS-1572B6?style=plastic&logoColor=white)
+![React JS](https://img.shields.io/badge/React%20JS-1572B6?style=plastic&logoColor=white)-->
 
-</br>
+#### Back end
 
-### Back end
+[![My Skills](https://skills.thijs.gg/icons?i=py,java,cs,dotnet)](https://skills.thijs.gg)
 
-![Python](https://img.shields.io/badge/Python-14354C?style=plastic&logoColor=white)
+
+<!--![Python](https://img.shields.io/badge/Python-14354C?style=plastic&logoColor=white)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-ED8B00?style=plastic&logoColor=white)
@@ -94,18 +113,20 @@ Obrigada se você leu até aqui pois isso é um breve texto sobre mim :-)
 ![.NET](https://img.shields.io/badge/.NET-239120?style=plastic&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-239120?style=plastic&logoColor=white)
 <!--![MySQL](https://img.shields.io/badge/MySQL-1572B6?style=plastic&logoColor=white)-->
-</br>
 
-### Banco de dados
+#### Banco de dados
 
-![SQL](https://img.shields.io/badge/SQL-00000F?style=plastic&logoColor=white)
-![No SQL](https://img.shields.io/badge/NoSQL-00000F?style=plastic&logoColor=white)
+[![My Skills](https://skills.thijs.gg/icons?i=mysql,mongodb)](https://skills.thijs.gg)
 
-</br>
 
-### Ferramentas
+<!--![SQL](https://img.shields.io/badge/SQL-00000F?style=plastic&logoColor=white)
+![No SQL](https://img.shields.io/badge/NoSQL-00000F?style=plastic&logoColor=white)-->
 
-![GIT](https://img.shields.io/badge/GIT-E34F26?style=plastic&logoColor=white)
+#### Ferramentas
+
+[![My Skills](https://skills.thijs.gg/icons?i=git,github)](https://skills.thijs.gg)
+
+<!--![GIT](https://img.shields.io/badge/GIT-E34F26?style=plastic&logoColor=white)-->
 
 
 <!--
