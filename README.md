@@ -44,7 +44,7 @@ Thank you if you read this because it is a short text about me :)-->
 # Olá, mundo!
 
 🌟 Milena </br>
-💗 Music, sports... </br>
+💗 Música, esportes... </br>
 
 🤖 Tecnologia & inovação
 
