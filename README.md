@@ -69,7 +69,7 @@ Thank you if you read this because it is a short text about me :)-->
 
 ## Aprendizagem e projetos paralelos
 
-- Estudando desenvolvimento full-stack no programa Oracle Next Education
+- Estudando desenvolvimento full stack no programa Oracle Next Education
 
 - Aprendendo Java básico com a Loiane Groner
 
