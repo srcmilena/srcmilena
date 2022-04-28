@@ -54,7 +54,7 @@ Thank you if you read this because it is a short text about me :)-->
 
 ## Olá, mundo!
 
-- Eu sou uma desenvolvedora full-stack recém formada na turma de 2021, do programa Recode Pro
+- Eu sou uma desenvolvedora full-stack junior e recém formada na turma de 2021, do programa Recode Pro
 
 - Atualmente estou aberta às oportunidades
 
