@@ -34,8 +34,6 @@ Here are some ideas to get you started:
   <a href="https://github.com/srcmilena">
   <img src="https://res.cloudinary.com/srcmilena/image/upload/v1642969111/milena_brito_att_1_l0e8q3.png"/>
 </div>-->
-  
-  </br>
 
 <!--<div align="center">
   <a href = "#"><img src="https://img.shields.io/badge/zmilenabrito%40gmail.com-Gmail-red?style=plastic&logo=gmail&logoColor=white" target="_blank"></a>
