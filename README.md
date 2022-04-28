@@ -79,6 +79,8 @@ Thank you if you read this because it is a short text about me :)-->
 
 - Aprendendo a contribuir em projetos de código aberto
 
+- Desenvolvendo habilidades interpessoais para ser uma boa pessoa para o mundo (na minha vida pessoal, acadêmica e profissional)
+
 - Tendo uma visão geral de ciências da computação no curso CS50 ministrado por um dos meus professores favoritos, o David Mallan
 
 - Mantendo consistência nos meus estudos de inglês para que eu saia do intermediário-avançando e finalmente me firme no avançado-fluente
