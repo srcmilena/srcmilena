@@ -13,6 +13,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... 👋
+
+🌟 Milena </br>
+💗 Música, esportes... </br>
+
+🤖 Tecnologia & inovação
+
+📍 São Paulo, SP </br>
+🌎 Brasil </br>
+
+🌱 Oracle Next Education </br>
+🎓 Recode Pro 2021 </br>
 -->
 
 <!--<p align="center">
@@ -26,7 +37,7 @@ Here are some ideas to get you started:
   
   </br>
 
-<div align="center">
+<!--<div align="center">
   <a href = "#"><img src="https://img.shields.io/badge/zmilenabrito%40gmail.com-Gmail-red?style=plastic&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/srcmilena" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
@@ -41,20 +52,54 @@ I am a technology lover but, I studied civil engineering for almost three years.
 
 Thank you if you read this because it is a short text about me :)-->
 
-# Olá, mundo!
+## Olá, mundo!
 
-🌟 Milena </br>
-💗 Música, esportes... </br>
+- Eu sou uma desenvolvedora full-stack recém formada na turma de 2021, do programa Recode Pro
 
-🤖 Tecnologia & inovação
+- Atualmente estou aberta às oportunidades
 
-📍 São Paulo, SP </br>
-🌎 Brasil </br>
+#### Quer dar uma palavrinha? 
+  - Pode me mandar uma mensagem no Telegram: [@srcmilena](https://t.me/srcmilena) 
 
-🌱 Oracle Next Education </br>
-🎓 Recode Pro 2021 </br>
+  - Meu e-mail é: zmilenabrito@gmail.com
 
-<!--Esta é a minha apresentação.
+  - Meu LinkedIn é: [@srcmilena](https://www.linkedin.com/in/srcmilena) 
+
+  - Tento compartilhar alguns aprendizados e trajetória no: [dev.to @srcmilena](https://dev.to/srcmilena) 
+
+<!--***-->
+
+## Aprendizagem e projetos paralelos
+
+- Estudando desenvolvimento full-stack no programa Oracle Next Education
+
+- Aprendendo Java básico com a Loiane Groner
+
+- Tendo mentoria de JavaScript com a comunidade DUPLA e que se estendeu à criação de um projeto com minhas colegas de estudo. O projeto se baseia em ser um site sobre nós (participantes) e mulheres na tecnologia que admiramos
+
+- Aprendendo a alcançar um estilo de vida mais produtivo e disciplinado
+
+- Aprendendo a contribuir em projetos de código aberto
+
+- Tendo uma visão geral de ciências da computação no curso CS50 ministrado por um dos meus professores favoritos, o David Mallan
+
+- Mantendo consistência nos meus estudos de inglês para que eu saia do intermediário-avançando e finalmente me firme no avançado-fluente
+
+- Explorando e acompanhando conceitos de programação e tecnologia, de maneira que eu fique atualizada
+
+
+<!--- Milena </br>
+- Música, esportes... </br>
+
+- Tecnologia & inovação
+
+- São Paulo, SP </br>
+- Brasil </br>
+
+- Oracle Next Education </br>
+- Recode Pro 2021 </br>
+
+Esta é a minha apresentação.
 
 Meu nome é Milena e eu moro em São Paulo.
 
@@ -81,10 +126,10 @@ Obrigada se você leu até aqui pois isso é um breve texto sobre mim :-)-->
  
  </br></br>-->
  
- ***
+ <!--***-->
  
 <!-- ## I have some knowledge about these technologies:-->
-## Eu tenho algum conhecimento sobre essas tecnologias:
+## Eu tenho algum conhecimento sobre essas tecnologias
 
 #### Front end
 
