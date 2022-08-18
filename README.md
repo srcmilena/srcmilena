@@ -1,5 +1,7 @@
 ## Hello world!
 
+<img src="https://res.cloudinary.com/srcmilena/image/upload/c_scale,w_150/v1660784919/my-octocat_famxax.png"/>
+
 - I am a junior full-stack developer
 - Internet systems student
 
