@@ -1,6 +1,6 @@
-## Hi!
+## Hi there :)
 
-<img src="https://res.cloudinary.com/srcmilena/image/upload/c_scale,w_150/v1660784919/my-octocat_famxax.png"/>
+<!--<img src="https://res.cloudinary.com/srcmilena/image/upload/c_scale,w_150/v1660784919/my-octocat_famxax.png"/>-->
 
 - I am a junior software developer
 - Internet systems student
@@ -49,6 +49,6 @@
 
 #### Tools
 
-[![My Skills](https://skills.thijs.gg/icons?i=git,github)](https://skills.thijs.gg) -->
+[![My Skills](https://skills.thijs.gg/icons?i=git,github)](https://skills.thijs.gg) 
 
-_Stay hungry, stay foolish_
+_Stay hungry, stay foolish_ -->
