@@ -2,7 +2,7 @@
 
 <img src="https://res.cloudinary.com/srcmilena/image/upload/c_scale,w_150/v1660784919/my-octocat_famxax.png"/>
 
-- I am a junior full-stack developer
+- I am a junior software developer
 - Internet systems student
 
 
@@ -15,19 +15,11 @@
 
   - I try to share some of my learning and trajectory on: [dev.to @srcmilena](https://dev.to/srcmilena) 
 
+
+
 ## Learning and parallel projects
 
-- Studying full stack development in the Oracle Next Education program
-
-- Learning basic Java with Loiane Groner and Digital Innovation One
-
-- Developing technical writing
-
-- Attending beginner meetings and mentoring in the tech community, mostly about Java
-
 - Learning to contribute to open source projects
-
-- Contributing translations of English to Portuguese articles on freeCodeCamp
 
 - Keeping consistency in my English studies so that I move from intermediate-advancing and finally settle into advanced-fluent
 
@@ -38,7 +30,7 @@
 - Exploring and following programming and technology concepts, so that I stay up to date
   
 
-## I have some knowledge about these technologies (and more)
+<!-- ## I have some knowledge about these technologies (and more)
 
 #### Front end
 
@@ -57,6 +49,6 @@
 
 #### Tools
 
-[![My Skills](https://skills.thijs.gg/icons?i=git,github)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=git,github)](https://skills.thijs.gg) -->
 
 _Stay hungry, stay foolish_
